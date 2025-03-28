@@ -1,2 +1,2 @@
-# CTF_configs
-Contains my CTF configs
+# Scripts and config
+Contains my configs and QoL scripts
